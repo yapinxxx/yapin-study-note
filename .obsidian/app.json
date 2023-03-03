@@ -1,0 +1,11 @@
+{
+  "livePreview": false,
+  "showLineNumber": true,
+  "spellcheckDictionary": [
+    "json",
+    "VigorConnect",
+    "NetFlow",
+    "sFlow"
+  ],
+  "spellcheck": false
+}

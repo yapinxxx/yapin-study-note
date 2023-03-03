@@ -1,0 +1,11 @@
+{
+  "includeFirstLineAsNoteHeading": false,
+  "excludeFirstLineInNote": true,
+  "headingFormat": "##",
+  "newFileLocation": 1,
+  "customFolder": "",
+  "fileNamePrefix": "",
+  "transcludeByDefault": true,
+  "noteLinkTemplate": "",
+  "refactoredNoteTemplate": "---\ndate: {{date}}\naliases: []\n---\n\n# Metadata\nStatus :: #🌱 #🌼 #🌲 <br>\nNote Type :: #📝 #🗺️ <br>\nSource URL :: []() <br>\nSource Type :: #(想法、書籍、網路文章、影片、課程、Podcast、PDF/電子書、聊天、貼文。)<br>\nAuthor :: #(The Information Author)<br>\nTopics :: #(紀錄筆記相關的主題 (MOC)，主題 (MOC) 依據需要會不斷新增。例如時間管理、專案管理、產品管理...等。) <br>\nSplit :: {{link}} <br>\n\n---\n\n# Evergreen Note\n\nQuestion :: What this note talking about? <br>\n-> <br>\nAnswer :: (My answer) <br>\n\n---\n\n# {{new_note_title}}\n{{new_note_content}}\n"
+}
