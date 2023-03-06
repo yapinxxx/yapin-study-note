@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Projects/Access Control.md",
+                "file": "Book List.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Projects/Access Control.md"
+                "file": "Book List.md"
               }
             }
           },
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Projects/Access Control.md",
+                "file": "Book List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Projects/Access Control.md",
+                "file": "Book List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "1. Projects/Access Control.md",
+                "file": "Book List.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -213,8 +213,10 @@
   },
   "active": "efc575e0a48ce910",
   "lastOpenFiles": [
-    "2023-01-30.md",
+    "2023-03-03.md",
+    "Book List.md",
     "1. Projects/Access Control.md",
+    "2023-01-30.md",
     "3. Resources/File Permissions in Unix-like systems.md",
     "3. Resources/Obsidian Learn/Obsidian Plugins Note.md",
     "3. Resources/Obsidian Learn/Obsidian Tutorial by 朱騏/Obsidian Tutorial by 朱騏.md",
@@ -222,7 +224,6 @@
     "README.md",
     "Object Calisthenics.md",
     "Advice for Junior Developers.md",
-    "2023-03-03.md",
     "4. Archives/Daily Note/2023-02-17.md",
     "4. Archives/Daily Note/2023-02-16.md",
     "4. Archives/Daily Note/2023-02-15.md",
@@ -238,7 +239,6 @@
     "4. Archives/Daily Note/2023-01-31.md",
     "4. Archives/Daily Note/2023-01-30.md",
     "4. Archives/Daily Note/2023-01-17.md",
-    "4. Archives/Daily Note/2023-01-16.md",
     "4. Archives/Daily Note",
     "4. Archives/Daily Note/RE【”",
     "2. Areas of responsibility/Object_Calisthenics.pdf"
