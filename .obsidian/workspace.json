@@ -13,7 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Projects/Access Control.md",
+                "file": "Advice for Junior Developers.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "83996abfdb20325b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2023-03-10.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -28,7 +41,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -113,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Projects/Access Control.md"
+                "file": "2023-03-10.md"
               }
             }
           },
@@ -123,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Projects/Access Control.md",
+                "file": "2023-03-10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,21 +154,22 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Projects/Access Control.md",
+                "file": "2023-03-10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "48604c263eabf856",
+            "id": "f752a5a5dca003e2",
             "type": "leaf",
             "state": {
               "type": "calendar",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       },
       {
         "id": "2b36cf529a65c525",
@@ -166,7 +181,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "1. Projects/Access Control.md",
+                "file": "2023-03-10.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -211,18 +226,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "efc575e0a48ce910",
+  "active": "83996abfdb20325b",
   "lastOpenFiles": [
+    "2022-11-12.md",
+    "2023-03-10.md",
+    "2023-03-08.md",
+    "2023-03-07.md",
+    "From STUPID to SOLID Code!.md",
+    "4. Archives/The monitor technology.md",
+    "2023-03-03.md",
+    "Advice for Junior Developers.md",
+    "Object Calisthenics.md",
+    "README.md",
+    "The software architecture SOLID rule.md",
     "2023-01-30.md",
     "1. Projects/Access Control.md",
     "3. Resources/File Permissions in Unix-like systems.md",
     "3. Resources/Obsidian Learn/Obsidian Plugins Note.md",
     "3. Resources/Obsidian Learn/Obsidian Tutorial by 朱騏/Obsidian Tutorial by 朱騏.md",
-    "4. Archives/The monitor technology.md",
-    "README.md",
-    "Object Calisthenics.md",
-    "Advice for Junior Developers.md",
-    "2023-03-03.md",
     "4. Archives/Daily Note/2023-02-17.md",
     "4. Archives/Daily Note/2023-02-16.md",
     "4. Archives/Daily Note/2023-02-15.md",
@@ -233,12 +254,6 @@
     "4. Archives/Daily Note/2023-02-07.md",
     "4. Archives/Daily Note/2023-02-06.md",
     "4. Archives/Daily Note/2023-02-03.md",
-    "4. Archives/Daily Note/2023-02-02.md",
-    "4. Archives/Daily Note/2023-02-01.md",
-    "4. Archives/Daily Note/2023-01-31.md",
-    "4. Archives/Daily Note/2023-01-30.md",
-    "4. Archives/Daily Note/2023-01-17.md",
-    "4. Archives/Daily Note/2023-01-16.md",
     "4. Archives/Daily Note",
     "4. Archives/Daily Note/RE【”",
     "2. Areas of responsibility/Object_Calisthenics.pdf"
