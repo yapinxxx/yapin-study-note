@@ -1,3 +1,30 @@
+
+
+---
+date: 202304111137
+aliases: []
+---
+
+# Metadata
+Status :: #🌱 #🌼 #🌲 <br>
+Note Type :: #📝 #🗺️ <br>
+Source URL :: []() <br>
+Source Type :: #(想法、書籍、網路文章、影片、課程、Podcast、PDF/電子書、聊天、貼文。)<br>
+Author :: #(The Information Author)<br>
+Topics :: #(紀錄筆記相關的主題 (MOC)，主題 (MOC) 依據需要會不斷新增。例如時間管理、專案管理、產品管理...等。) <br>
+Split :: [[2023-03-21]] <br>
+
+---
+
+# Evergreen Note
+
+Question :: What this note talking about? <br>
+-> <br>
+Answer :: (My answer) <br>
+
+---
+
+# Golang-Note
 # go.mod introduction
 ## module 
 This is about module name, we can use module name to use relative path then we don't need to use folder name because some
@@ -81,3 +108,23 @@ This is about module name, we can use module name to use relative path then we d
 	[For example, if you have a package named `mypackage` in a folder named `mypackage`, you can import it in another project using `import "mypackage"`](https://stackoverflow.com/questions/53404155/go-modules-naming-convention-of-directories-and-packages)[1](https://stackoverflow.com/questions/53404155/go-modules-naming-convention-of-directories-and-packages). [However, if you have another package with the same name in another project, you will have a naming conflict](https://stackoverflow.com/questions/53404155/go-modules-naming-convention-of-directories-and-packages)[1](https://stackoverflow.com/questions/53404155/go-modules-naming-convention-of-directories-and-packages).
 	
 	[Using the module name as the package name avoids this problem because the module name is unique and can be used to identify the package across different projects](https://stackoverflow.com/questions/53404155/go-modules-naming-convention-of-directories-and-packages)[1](https://stackoverflow.com/questions/53404155/go-modules-naming-convention-of-directories-and-packages).
+
+
+# Formatting Data in Go with the fmt Package
+
+| Format Specifier | Type | Description |
+| --- | --- | --- |
+| `%v` | any | prints the value in its default format |
+| `%T` | any | prints the type of the value |
+| `%t` | bool | prints the value as a boolean (`true` or `false`) |
+| `%d` | int | prints the value as a decimal integer |
+| `%b` | int | prints the value in binary (base 2) format |
+| `%o` | int | prints the value in octal (base 8) format |
+| `%x`, `%X` | int | prints the value in hexadecimal (base 16) format |
+| `%f`, `%F` | float | prints the value in decimal notation |
+| `%e`, `%E` | float | prints the value in scientific notation (`1.23e+04`) |
+| `%s` | string | prints the string value |
+| `%q` | string | prints the quoted string value |
+| `%p` | pointer | prints the memory address of the value |
+| `%U` | rune | prints the Unicode representation of the value |
+| `%%` | N/A | prints a literal `%` character |
