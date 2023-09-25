@@ -12,7 +12,7 @@ Source URL :: []() <br>
 Source Type :: #(想法、書籍、網路文章、影片、課程、Podcast、PDF/電子書、聊天、貼文。)<br>
 Author :: #(The Information Author)<br>
 Topics :: #(紀錄筆記相關的主題 (MOC)，主題 (MOC) 依據需要會不斷新增。例如時間管理、專案管理、產品管理...等。) <br>
-Split :: [[2023-03-21]] <br>
+Split :: [[2023-03-21 1]] <br>
 
 ---
 

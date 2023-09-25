@@ -9,5 +9,6 @@
     "Hsinchu",
     "Taoyuan"
   ],
-  "spellcheck": false
+  "spellcheck": false,
+  "alwaysUpdateLinks": true
 }
