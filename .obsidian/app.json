@@ -5,7 +5,10 @@
     "json",
     "VigorConnect",
     "NetFlow",
-    "sFlow"
+    "sFlow",
+    "Hsinchu",
+    "Taoyuan"
   ],
-  "spellcheck": false
+  "spellcheck": false,
+  "alwaysUpdateLinks": true
 }

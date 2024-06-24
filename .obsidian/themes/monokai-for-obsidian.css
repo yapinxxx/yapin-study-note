@@ -45,6 +45,7 @@
     --text-a-hover:               var(--light0);
     --text-mark:                  var(--yellow);
     --pre-code:                   var(--dark2);
+    --code-background:            var(--dark2);
     --interactive-accent:         var(--accent);
     --interactive-before:         var(--dark0);
     --background-modifier-border: var(--dark1);
@@ -53,6 +54,8 @@
     --inline-code:                var(--red);
     --code-block:                 var(--red);
     --vim-cursor:                 var(--light0);
+    --vim-cursor:                 var(--light0);
+    --hr-color:                   var(--blue);
 
     /* --text-highlight-bg:          none; */
 }
