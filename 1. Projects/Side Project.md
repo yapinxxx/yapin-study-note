@@ -73,6 +73,11 @@ Answer :: (My answer) <br>
 2. The behavior might be superficial; bad actors could revert to their original intentions once they achieve their goals.
 3. Users may feel upset when encountering impolite individuals.
 
+## Self-Site
+## Self-Blog
+## Self-Meishi
+1. When Self-Site or Self-Blog is bigger enough, then could on the street to chatting with unknown people!
+
 
 
 # Archive
