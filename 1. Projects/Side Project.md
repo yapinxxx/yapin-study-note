@@ -78,6 +78,32 @@ Answer :: (My answer) <br>
 ## Self-Meishi
 1. When Self-Site or Self-Blog is bigger enough, then could on the street to chatting with unknown people!
 
+## Personal Newspaper
+### Abstract
+1. People rely too much on social media. We could build a personal tool that helps them focus on what really interests them in daily life.
+### Method
+#### Simple Design
+1. At the same time, users want to keep up with friends’ lives—but not every day. They might prefer updates weekly, bi-weekly, monthly, etc.
+2. Real-time short messages should serve only as quick personal logs. Later, users can curate those snippets into a polished diary or newsletter.
+3. We should integrate with users’ calendars so they can easily add interesting activities as events and set reminders.
+#### Publish
+1. Platform:
+	1. **Website**  
+		- Start as a personal journal and grow into a full product.
+	2. **Mobile App**  
+		- Let users capture moments on the go and follow friends’ updates until it becomes a mature product.
+
+## Personal News Paper
+1. Everyone too much rely on social media, we could generate more personal tools to focus on our interesting in daily life
+2. But we also want to follow our friends daily life, however it not necessary in every days, we could update every week, once of two week, once of a month and sold on.
+3. We shouldn't expect the real time message could be seen by our friends, the real time short message is for simple record, we still need to tidy it to our diary!
+4. We should link to calendar then people could easy add the interested activity to calendar and remind to themselves
+5. Platform
+	1. Website
+		1. From myself to grow up to a product
+	2. Mobile Device
+		1. Grow up with everyone until to be a product
+
 
 
 # Archive
