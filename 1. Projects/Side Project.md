@@ -117,3 +117,8 @@ Answer :: (My answer) <br>
 		2. People can't only sit down
 		3. Avoid small group chatting, but also let people have free to leave and rest
 		4. Buffet
+# Classical music with Taiwanese
+1. Find the suitable Taiwanese words in classical music
+	1. Tone is free
+	2. Interesting
+	3. 
